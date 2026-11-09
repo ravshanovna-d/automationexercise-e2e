@@ -58,7 +58,7 @@ automationexercise-e2e/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/dlsoul13/automationexercise-e2e.git
+git clone https://github.com/ravshanovna-d/automationexercise-e2e.git
 cd automationexercise-e2e
 
 python -m venv venv
